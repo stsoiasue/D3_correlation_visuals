@@ -1,0 +1,53 @@
+Id2,Locationabbr,Locationdesc,greaterThan60,depressed
+1,AL,Alabama,1.84,21.3
+2,AK,Alaska,1.75,15.6
+4,AZ,Arizona,1.58,18.7
+5,AR,Arkansas,1.79,21.5
+6,CA,California,3.39,13.3
+8,CO,Colorado,2.01,17
+9,CT,Connecticut,2.95,18.3
+10,DE,Delaware,2.34,18.3
+11,DC,District of Columbia,1.94,18.1
+12,FL,Florida,2.03,16.2
+13,GA,Georgia,2.71,18.3
+15,HI,Hawaii,3.05,10.7
+16,ID,Idaho,1.45,19.5
+17,IL,Illinois,2.88,16.7
+18,IN,Indiana,1.77,20.7
+19,IA,Iowa,1.24,18.7
+20,KS,Kansas,1.19,18.6
+21,KY,Kentucky,1.77,23.9
+22,LA,Louisiana,3.33,18.7
+23,ME,Maine,2.11,23.7
+24,MD,Maryland,4.11,15.9
+25,MA,Massachusetts,3,21.7
+26,MI,Michigan,1.86,20.5
+27,MN,Minnesota,1.57,18.2
+28,MS,Mississippi,2.54,19.9
+29,MO,Missouri,1.54,21.7
+30,MT,Montana,1.73,20.4
+31,NE,Nebraska,1.13,17.7
+32,NV,Nevada,2.19,15.6
+33,NH,New Hampshire,3.25,21
+34,NJ,New Jersey,4.82,13.4
+35,NM,New Mexico,1.97,21.1
+36,NY,New York,5.39,15.9
+37,NC,North Carolina,1.76,19
+38,ND,North Dakota,1.99,17.3
+39,OH,Ohio,1.58,20.9
+40,OK,Oklahoma,1.65,21.8
+41,OR,Oregon,1.89,24
+42,PA,Pennsylvania,2.78,19.7
+44,RI,Rhode Island,2.35,20.6
+45,SC,South Carolina,1.83,19.9
+46,SD,South Dakota,1.03,16.6
+47,TN,Tennessee,1.66,21.4
+48,TX,Texas,2.09,14.6
+49,UT,Utah,1.58,20.7
+50,VT,Vermont,1.4,21.8
+51,VA,Virginia,3.23,17.4
+53,WA,Washington,2.73,21.6
+54,WV,West Virginia,3.53,23.6
+55,WI,Wisconsin,1.65,17
+56,WY,Wyoming,2.6,19
+72,PR,Puerto Rico,3.89,18.5
